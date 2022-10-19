@@ -1,6 +1,6 @@
 {
 	"name": "phrases-colombianas-console",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "This is a project for package management with npm and versioning. ",
 	"main": "index.js",
 	"scripts": {
